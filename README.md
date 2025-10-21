@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **Next.js** and **Cloud Computing**
-- 💬 Ask me about **JavaScript, React, and FrontEnd Development**
+- 💬 Ask me about **JavaScript -- React -- PLayWright -- Cypress**
 - 📫 Reach me at **piyushaditya2509@gmail.com**
 - ⚡ Fun fact: I can do 5 muscle-ups in a row 💪🏻
 
